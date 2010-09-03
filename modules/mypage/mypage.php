@@ -1,9 +1,9 @@
 <?php
 /**
  * This Module was developed by Martin Lantzsch
- * @author: Martin Lantzsch
- * @mail: martin@linux-doku.de
- * @litotex.de username: Martin
+ * @author:     Martin Lantzsch
+ * @mail:       martin@linux-doku.de
+ * @litotex.de: LinuxDoku (Support Leader)
  */
 
 @session_start();
